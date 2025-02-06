@@ -3,3 +3,5 @@ __pycache__
 source/
 .env
 .ipynb_checkpoints/
+cti.html
+lib/
